@@ -19,9 +19,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-What I Learned:  
+Installation: 
+N/A
 
-In depth understanding of how the HTML elements, accessibility requirements, and css work together to make a user-friendly website. 
+Credits:
+N/A
 
 Website Link: 
 
