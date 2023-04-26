@@ -26,7 +26,8 @@ Credits:
 N/A
 
 Website Link: 
-http://127.0.0.1:5500/index.html
+file:///Users/kellyclark/bootcamp/Challenge1/Challenge-1/index.html 
+
 
 Contact: 
 git@github.com:KelClark/
